@@ -87,3 +87,319 @@
 04-10 17:24:13.072   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
 04-10 17:24:13.072   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
 04-10 17:24:23.853  1451  1510 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:24:23.937  1451  1510 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:24:49.631  3374  3763 E libc    : Access denied finding property "ro.ril.oem.psno"
+04-10 17:24:58.927   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:25:55.401   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:25:55.401   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:25:55.401   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:25:55.401   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:25:55.401   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:25:55.401   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:25:58.930   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:26:40.376  1451  1510 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:26:58.932   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:27:36.237   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:27:36.237   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:27:36.237   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:27:36.237   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:27:36.237   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:27:36.237   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:27:56.988  5989 11498 E +++++beyond+++++: [ErrorLogUploadController.onWork]-versionCode=676, versionName=8.3.21.412376, buildId=Build_412376_20200113, apiLevel=28
+04-10 17:27:58.935   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:28:58.936   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:29:10.700   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:29:10.700   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:29:10.700   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:29:10.700   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:29:10.700   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:29:10.700   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:29:58.939   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:30:00.075  1451  1510 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:30:00.203  1451  1507 E libprocessgroup: Error encountered killing process cgroup uid 99002 pid 6959: No such file or directory
+04-10 17:30:34.778 11544 11544 E m.xiaomi.marke: Not starting debugger since process cannot load the jdwp agent.
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: /data/user/0/com.xiaomi.market/files/overseas_mode_page_configuration (No such file or directory)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: java.io.FileNotFoundException: /data/user/0/com.xiaomi.market/files/overseas_mode_page_configuration (No such file or directory)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at java.io.FileInputStream.open0(Native Method)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at java.io.FileInputStream.open(FileInputStream.java:231)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at java.io.FileInputStream.<init>(FileInputStream.java:165)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.readOverseasModePageConfig(WebResourceManager.java:3)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.<init>(WebResourceManager.java:9)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.<init>(WebResourceManager.java:1)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager.<init>(WebResourceManager.java:11)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager.getManager(WebResourceManager.java:4)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.common.appdelegate.ForegroundAppDelegate.attachBaseContext$lambda$0(Unknown Source:0)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.common.appdelegate.ForegroundAppDelegate.b(Unknown Source:0)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.common.appdelegate.e.run(Unknown Source:0)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.util.ThreadUtils$1.run(ThreadUtils.java:1)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+04-10 17:30:34.968 11544 11561 E Market-ExceptionUtils: 	at java.lang.Thread.run(Thread.java:764)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: /data/user/0/com.xiaomi.market/files/elder_mode_page_configuration (No such file or directory)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: java.io.FileNotFoundException: /data/user/0/com.xiaomi.market/files/elder_mode_page_configuration (No such file or directory)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at java.io.FileInputStream.open0(Native Method)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at java.io.FileInputStream.open(FileInputStream.java:231)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at java.io.FileInputStream.<init>(FileInputStream.java:165)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.readElderModePageConfig(WebResourceManager.java:3)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.<init>(WebResourceManager.java:11)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.<init>(WebResourceManager.java:1)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager.<init>(WebResourceManager.java:11)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager.getManager(WebResourceManager.java:4)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.common.appdelegate.ForegroundAppDelegate.attachBaseContext$lambda$0(Unknown Source:0)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.common.appdelegate.ForegroundAppDelegate.b(Unknown Source:0)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.common.appdelegate.e.run(Unknown Source:0)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at com.xiaomi.market.util.ThreadUtils$1.run(ThreadUtils.java:1)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+04-10 17:30:34.982 11544 11561 E Market-ExceptionUtils: 	at java.lang.Thread.run(Thread.java:764)
+04-10 17:30:35.006 11544 11559 E DeviceLevel: MiDeviceLevelBridge(): Load Class Exception:java.lang.ClassNotFoundException: Didn't find class "com.miui.performance.DeviceLevelUtils" on path: DexPathList[[zip file "/system/framework/MiuiBooster.jar"],nativeLibraryDirectories=[/system/lib]]
+04-10 17:30:35.124 11544 11562 E ReflectUtils: getMethod android.os.RecoverySystem.readRescueFile java.lang.NullPointerException
+04-10 17:30:35.246  1451  1504 E NotificationService: Suppressing notification from package by user request.
+04-10 17:30:35.465 11544 11557 E ReflectUtil: Failed to call method:getEUASupportSize
+04-10 17:30:35.465 11544 11557 E ReflectUtil: java.lang.NoSuchMethodException: getEUASupportSize []
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at java.lang.Class.getMethod(Class.java:2068)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at java.lang.Class.getDeclaredMethod(Class.java:2047)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at p6.g.a(ReflectUtil.java:2)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at com.xiaomi.market.util.SizeUnit.getEuaSupportBytes(Unknown Source:6)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at com.xiaomi.market.util.SizeUnit.getTotalMemorySpaceV2(SizeUnit.java:3)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at com.xiaomi.market.util.SizeUnit.getTotalMemorySpace(SizeUnit.java:2)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at com.xiaomi.market.business_core.downloadinstall.freedownload.FreeDownloadConfigManager.<clinit>(Unknown Source:7)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackParams$Companion.commonParams(OneTrackAnalyticUtils.kt:31)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackAnalyticUtils$Companion.trackEvent(OneTrackAnalyticUtils.kt:2)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at com.xiaomi.market.business_core.downloadinstall.dynamic.DynamicInstallTrackUtil.trackDynamicInstallRequest(DynamicInstallTrackUtil.kt:3)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at com.xiaomi.market.business_core.downloadinstall.dynamic.DynamicInstallService$DynamicInstallServiceStub.startInstall(DynamicInstallService.kt:6)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at com.xiaomi.market.IDynamicInstallService$Stub.onTransact(IDynamicInstallService.java:32)
+04-10 17:30:35.465 11544 11557 E ReflectUtil: 	at android.os.Binder.execTransact(Binder.java:726)
+04-10 17:30:35.562 11544 11610 E Market-Client: isSupportChildMode, error: java.lang.NumberFormatException: For input string: ""
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: MarketIconCustomizer not found
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: java.lang.ClassNotFoundException: miui.content.res.MarketIconCustomizer
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at java.lang.Class.classForName(Native Method)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at java.lang.Class.forName(Class.java:453)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at java.lang.Class.forName(Class.java:378)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.customize_icon.CustomizeIconDataEditor.<clinit>(CustomizeIconDataEditor.kt:5)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.business_core.downloadinstall.UpdateDesktopOperateIconManager$Companion.isDesktopSupportOperationIcon(Unknown Source:0)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.connection.Parameter.getBaseParameters(Parameter.java:68)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.connection.Parameter.addBaseParameters(Unknown Source:0)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.ParameterInterceptor.configParams(ParameterInterceptor.kt:7)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.ParameterInterceptor.intercept(ParameterInterceptor.kt:9)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.TracedInterceptor.intercept(TracedInterceptor.kt:2)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:12)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.HeaderInterceptor.intercept(HeaderInterceptor.kt:12)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.TracedInterceptor.intercept(TracedInterceptor.kt:2)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:12)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.RetryInterceptor.intercept(RetryInterceptor.kt:5)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.TracedInterceptor.intercept(TracedInterceptor.kt:2)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:12)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.NetStrengthInterceptor.intercept(NetStrengthInterceptor.kt:5)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:12)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.UserBehaviorInterceptor.intercept(UserBehaviorInterceptor.kt:5)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.TracedInterceptor.intercept(TracedInterceptor.kt:2)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:12)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.EnsureInterceptor.intercept(EnsureInterceptor.kt:5)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:12)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.TimeoutInterceptor.intercept(TimeoutInterceptor.kt:8)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:12)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.brotli.BrotliInterceptor.intercept(BrotliInterceptor.kt:5)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:12)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.ThrowableInterceptor.intercept(ThrowableInterceptor.kt:2)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:12)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.retrofit.interceptor.NetworkTrackInterceptor.intercept(NetworkTrackInterceptor.kt:3)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:12)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:16)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:9)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.connection.Connection.doConnect(Connection.java:2)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.connection.Connection.innerRequestOkHttp(Connection.java:4)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.connection.Connection.requestUnsafe(Connection.java:23)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.connection.Connection.request(Connection.java:2)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.connection.Connection.requestString(Connection.java:2)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.common.network.connection.Connection.requestJSON(Connection.java:1)
+04-10 17:30:35.575 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.business_core.downloadinstall.dynamic.DynamicPluginInstallRequest.requestAppInfo(DynamicInstallRequest.kt:2)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.business_core.downloadinstall.dynamic.DynamicInstallRequest.requestAppInfo$default(Unknown Source:7)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.business_core.downloadinstall.dynamic.DynamicInstallManagerImpl.startDownloadSplits(DynamicInstallManagerImpl.kt:1)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.business_core.downloadinstall.dynamic.DynamicInstallManagerImpl.startInstall(DynamicInstallManagerImpl.kt:11)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.business_core.downloadinstall.dynamic.task.StartInstallTask.execute(Unknown Source:10)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at com.xiaomi.market.business_core.downloadinstall.dynamic.task.BaseTask.run(BaseTask.kt:1)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at android.os.Handler.handleCallback(Handler.java:873)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at android.os.Looper.loop(Looper.java:201)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at android.os.HandlerThread.run(HandlerThread.java:65)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: Caused by: java.lang.ClassNotFoundException: Didn't find class "miui.content.res.MarketIconCustomizer" on path: DexPathList[[zip file "/system/framework/org.apache.http.legacy.boot.jar", zip file "/data/app/com.xiaomi.market-lF_wrdOs4SFwwhpEGuK7lg==/base.apk"],nativeLibraryDirectories=[/data/app/com.xiaomi.market-lF_wrdOs4SFwwhpEGuK7lg==/lib/arm, /data/app/com.xiaomi.market-lF_wrdOs4SFwwhpEGuK7lg==/base.apk!/lib/armeabi-v7a, /system/lib]]
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:171)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:379)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:312)
+04-10 17:30:35.576 11544 11610 E Market-CustomizeIconDataEditor: 	... 50 more
+04-10 17:30:35.577 11544 11610 E Market-Client: isSupportChildMode, error: java.lang.NumberFormatException: For input string: ""
+04-10 17:30:35.614 11544 11577 E Market-Client: isSupportChildMode, error: java.lang.NumberFormatException: For input string: ""
+04-10 17:30:35.620 11544 11577 E Market-Client: isSupportChildMode, error: java.lang.NumberFormatException: For input string: ""
+04-10 17:30:35.652 11544 11589 E Market-HttpDnsManager: [D]beacon normal
+04-10 17:30:35.663 11544 11589 E Market-HttpDnsManager: [D]beacon probe normal
+04-10 17:30:35.737 11623 11623 E .market:FinApp: Not starting debugger since process cannot load the jdwp agent.
+04-10 17:30:35.824 11544 11575 E MicroMsg.SDK.WXApiImplV10: register app failed for wechat app signature check failed
+04-10 17:30:35.947 11623 11649 E DeviceLevel: MiDeviceLevelBridge(): Load Class Exception:java.lang.ClassNotFoundException: Didn't find class "com.miui.performance.DeviceLevelUtils" on path: DexPathList[[zip file "/system/framework/MiuiBooster.jar"],nativeLibraryDirectories=[/system/lib]]
+04-10 17:30:36.476 11544 11556 E ClientAI_SDK_ClientAIManager: connect failed, error code is -108.
+04-10 17:30:36.933 11544 11577 E Market-Client: isSupportChildMode, error: java.lang.NumberFormatException: For input string: ""
+04-10 17:30:36.935 11544 11577 E Market-Client: isSupportChildMode, error: java.lang.NumberFormatException: For input string: ""
+04-10 17:30:36.983 11623 11689 E SecurityDeviceSignMngr: PassportLog@A2^6C[c1NlY3VyaXR5RGV2aWNlUmVwb3J0IGluaXQgc3Vj]
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: /data/user/0/com.xiaomi.market/files/overseas_mode_page_configuration (No such file or directory)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: java.io.FileNotFoundException: /data/user/0/com.xiaomi.market/files/overseas_mode_page_configuration (No such file or directory)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at java.io.FileInputStream.open0(Native Method)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at java.io.FileInputStream.open(FileInputStream.java:231)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at java.io.FileInputStream.<init>(FileInputStream.java:165)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.readOverseasModePageConfig(WebResourceManager.java:3)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.<init>(WebResourceManager.java:9)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.<init>(WebResourceManager.java:1)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager.<init>(WebResourceManager.java:11)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager.getManager(WebResourceManager.java:4)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.model.ClientConfig.get(Unknown Source:0)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.util.Client.getSceneMode(Client.java:5)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackParams$Companion$AppCommonParams.<clinit>(OneTrackAnalyticUtils.kt:10)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackParams$Companion.commonParams(OneTrackAnalyticUtils.kt:6)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackAnalyticUtils$Companion.trackEvent(OneTrackAnalyticUtils.kt:2)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackAnalyticUtils.trackEvent(Unknown Source:2)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackManager.addTZParamToDauEvent(OneTrackManager.java:14)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackManager.initOkHttpMonitor(OneTrackManager.java:7)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.MarketApp.lambda$init$2(MarketApp.java:2)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.MarketApp.g(Unknown Source:0)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.c.run(Unknown Source:2)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.util.ThreadUtils$1.run(ThreadUtils.java:1)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+04-10 17:30:37.052 11623 11689 E Market-ExceptionUtils: 	at java.lang.Thread.run(Thread.java:764)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: /data/user/0/com.xiaomi.market/files/elder_mode_page_configuration (No such file or directory)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: java.io.FileNotFoundException: /data/user/0/com.xiaomi.market/files/elder_mode_page_configuration (No such file or directory)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at java.io.FileInputStream.open0(Native Method)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at java.io.FileInputStream.open(FileInputStream.java:231)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at java.io.FileInputStream.<init>(FileInputStream.java:165)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.readElderModePageConfig(WebResourceManager.java:3)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.<init>(WebResourceManager.java:11)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager$Config.<init>(WebResourceManager.java:1)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager.<init>(WebResourceManager.java:11)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.data.WebResourceManager.getManager(WebResourceManager.java:4)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.model.ClientConfig.get(Unknown Source:0)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.util.Client.getSceneMode(Client.java:5)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackParams$Companion$AppCommonParams.<clinit>(OneTrackAnalyticUtils.kt:10)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackParams$Companion.commonParams(OneTrackAnalyticUtils.kt:6)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackAnalyticUtils$Companion.trackEvent(OneTrackAnalyticUtils.kt:2)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackAnalyticUtils.trackEvent(Unknown Source:2)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackManager.addTZParamToDauEvent(OneTrackManager.java:14)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackManager.initOkHttpMonitor(OneTrackManager.java:7)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.MarketApp.lambda$init$2(MarketApp.java:2)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.MarketApp.g(Unknown Source:0)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.c.run(Unknown Source:2)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at com.xiaomi.market.util.ThreadUtils$1.run(ThreadUtils.java:1)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+04-10 17:30:37.062 11623 11689 E Market-ExceptionUtils: 	at java.lang.Thread.run(Thread.java:764)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: Failed to call method:getEUASupportSize
+04-10 17:30:37.108 11623 11689 E ReflectUtil: java.lang.NoSuchMethodException: getEUASupportSize []
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at java.lang.Class.getMethod(Class.java:2068)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at java.lang.Class.getDeclaredMethod(Class.java:2047)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at p6.g.a(ReflectUtil.java:2)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.util.SizeUnit.getEuaSupportBytes(Unknown Source:6)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.util.SizeUnit.getTotalMemorySpaceV2(SizeUnit.java:3)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.util.SizeUnit.getTotalMemorySpace(SizeUnit.java:2)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.business_core.downloadinstall.freedownload.FreeDownloadConfigManager.<clinit>(Unknown Source:7)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackParams$Companion.commonParams(OneTrackAnalyticUtils.kt:31)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackAnalyticUtils$Companion.trackEvent(OneTrackAnalyticUtils.kt:2)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackAnalyticUtils.trackEvent(Unknown Source:2)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackManager.addTZParamToDauEvent(OneTrackManager.java:14)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.common.analytics.onetrack.OneTrackManager.initOkHttpMonitor(OneTrackManager.java:7)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.MarketApp.lambda$init$2(MarketApp.java:2)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.MarketApp.g(Unknown Source:0)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.c.run(Unknown Source:2)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at com.xiaomi.market.util.ThreadUtils$1.run(ThreadUtils.java:1)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+04-10 17:30:37.108 11623 11689 E ReflectUtil: 	at java.lang.Thread.run(Thread.java:764)
+04-10 17:30:45.002 11544 11577 E SecurityDeviceSignMngr: PassportLog@A2^6C[c1NlY3VyaXR5RGV2aWNlUmVwb3J0IGluaXQgc3Vj]
+04-10 17:30:45.277 11544 11577 E PreloadManager: -- PreloadManager init ---
+04-10 17:30:47.015  1451  1510 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:30:51.918   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:30:51.918   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:30:51.918   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:30:51.918   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:30:51.918   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:30:51.918   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:30:47.043  1451  1510 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:30:58.941   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:31:58.943   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:32:35.368   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:32:35.368   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:32:35.368   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:32:35.368   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:32:35.368   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:32:35.368   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:32:58.944   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:33:58.947   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:34:07.018   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:34:07.018   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:34:07.018   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:34:07.018   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:34:07.018   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:34:07.018   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:34:58.949   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:35:35.153 11544 11567 E ReflectUtils: getMethod android.os.RecoverySystem.readRescueFile java.lang.NullPointerException
+04-10 17:35:44.913   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:35:44.913   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:35:44.913   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:35:44.913   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:35:44.913   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:35:44.913   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:35:58.952   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:36:58.954   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:37:10.142  1451  1510 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:37:10.168  1451  1510 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:37:22.719   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:37:22.720   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:37:22.720   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:37:22.720   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:37:22.720   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:37:22.720   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:37:58.957   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:38:58.850   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:38:58.850   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:38:58.850   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:38:58.850   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:38:58.850   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:38:58.851   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:38:58.958   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:39:49.611  3374  3763 E libc    : Access denied finding property "ro.ril.oem.psno"
+04-10 17:39:58.961   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:40:34.787 11544 11899 E Market-Client: isSupportChildMode, error: java.lang.NumberFormatException: For input string: ""
+04-10 17:40:34.792 11544 11899 E Market-Client: isSupportChildMode, error: java.lang.NumberFormatException: For input string: ""
+04-10 17:40:34.825 11544 11899 E Market-RetrofitRequest: connectFailed: https://app.market.xiaomi.com/apm/featuredV3/video, IP = 2408:877e:32:14f1::14
+04-10 17:40:34.831 11544 11899 E Market-RetrofitRequest: connectFailed: https://app.market.xiaomi.com/apm/featuredV3/video, IP = 2408:877e:32:14f1::14
+04-10 17:40:34.836 11544 11899 E Market-RetrofitRequest: connectFailed: https://app.market.xiaomi.com/apm/featuredV3/video, IP = 2406:d440:106:5700:1117:9e8e:1ac:de9c
+04-10 17:40:34.840 11544 11899 E Market-RetrofitRequest: connectFailed: https://app.market.xiaomi.com/apm/featuredV3/video, IP = 2408:877e:32:14f1::14
+04-10 17:40:34.846 11544 11899 E Market-RetrofitRequest: connectFailed: https://app.market.xiaomi.com/apm/featuredV3/video, IP = 2406:d440:106:5700:1117:9e8e:1ac:de9c
+04-10 17:40:35.198   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:40:35.198   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:40:35.198   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:40:35.198   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:40:35.198   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:40:35.198   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:40:58.964   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:41:58.966   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:42:19.476   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:42:19.476   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:42:19.476   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:42:19.477   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:42:19.477   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:42:19.477   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:42:29.420  1451  1510 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:42:29.501  1451  1510 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:42:58.968   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:43:54.858   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:43:54.858   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:43:54.858   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:43:54.858   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:43:54.858   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:43:54.858   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:43:58.971   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:44:58.973   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:45:35.290   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:45:35.290   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:45:35.290   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0
+04-10 17:45:35.291   958   958 E Diag_Lib:  Diag_LSM_Init: Failed to open handle to diag driver, error = 13
+04-10 17:45:35.291   958   958 E Diag_Lib: qpLogDiagInit <== result : 0
+04-10 17:45:35.291   958   958 E Diag_Lib: DATAD : gIsQXDMDisabled 0, gIsADBDisabled 1, gIsDebugDisabled 0, gIsIMSLogsDisabled 0

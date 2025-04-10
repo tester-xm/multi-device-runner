@@ -70,3 +70,38 @@
 04-10 17:22:43.864  1493  1560 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
 04-10 17:23:39.349   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
 04-10 17:24:39.351   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:25:39.353   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:26:39.354   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:27:39.355   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:28:39.357   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:29:07.234  1493  1560 E BatteryExternalStatsWorker: no controller energy info supplied for bluetooth
+04-10 17:29:07.257  1493  1560 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:29:07.292  1493  1560 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:29:39.358   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:30:39.360   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:31:39.361   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:32:39.364   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:33:39.365   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:34:26.833  1493  1560 E BatteryExternalStatsWorker: no controller energy info supplied for bluetooth
+04-10 17:34:26.856  1493  1560 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:34:26.886  1493  1560 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:34:39.366   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:35:39.369   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:36:15.375  1493  1560 E BatteryExternalStatsWorker: no controller energy info supplied for bluetooth
+04-10 17:36:15.398  1493  1560 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:36:39.370   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:37:39.372   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:38:39.373   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:39:40.422   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:39:46.458  1493  1560 E BatteryExternalStatsWorker: no controller energy info supplied for bluetooth
+04-10 17:39:46.481  1493  1560 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:39:46.548  1493  1560 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:40:40.424   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:41:40.426   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:42:40.427   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:43:40.428   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:44:02.152  1493  1560 E BatteryExternalStatsWorker: no controller energy info supplied for bluetooth
+04-10 17:44:02.174  1493  1560 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:44:02.234  1493  1560 E KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+04-10 17:44:40.430   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+04-10 17:45:40.433   694   855 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
