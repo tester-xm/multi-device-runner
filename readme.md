@@ -1,15 +1,10 @@
-# 介绍
-多设备并行运行Airtest测试
+[]: # 1. 安装依赖
+pip install -r requirements.txt
+[]: # 2. 运行
+python run.py
 
-For Readme in English, see [readme.md](./docs/readme_en.md)
-# 使用步骤
-1. 使用adb连接多台设备
-2. 安装 python3 环境以及 airtest  `pip install airtest`
-3. clone 或者下载样例，打开项目目录，运行代码 `python run.py`
+airtest run start_run_stop.air --device Android:///13afea4f0606 --log start_run_stop.air/log/13afea4f0606
+airtest report start_run_stop.air --log_root start_run_stop.air/log/13afea4f0606 --outfile start_run_stop.air/log/13afea4f0606/log.html --lang zh
 
-
-# Airtest 多设备并行测试示意图
-![avatar](./docs/demonstrate.png)
-
-# 测试报告效果图
-![avatar](./docs/example.gif)
+airtest run start_run_stop.air --device Android:///17027deb0906 --log start_run_stop.air/log/17027deb0906
+airtest report start_run_stop.air --log_root start_run_stop.air/log/17027deb0906 --outfile start_run_stop.air/log/17027deb0906/log.html --lang zh

@@ -1,0 +1,67 @@
+--------- beginning of main
+04-10 17:20:30.680 11097 11097 E libc    : Access denied finding property "ro.vendor.at_library"
+--------- beginning of system
+04-10 17:20:33.540 11117 11117 E libc    : Access denied finding property "ro.vendor.at_library"
+04-10 17:20:34.783 11151 11151 F Vector  : Vector<> have different types (this=0xbea08524, rhs=0xbea08594)
+--------- beginning of crash
+04-10 17:20:34.783 11151 11151 F libc    : Fatal signal 6 (SIGABRT), code -6 (SI_TKILL) in tid 11151 (minicap), pid 11151 (minicap)
+04-10 17:20:34.832 11156 11156 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+04-10 17:20:34.832 11156 11156 F DEBUG   : Build fingerprint: 'Xiaomi/olivelite/olivelite:9/PKQ1.190319.001/V11.0.10.0.PCPCNXM:user/release-keys'
+04-10 17:20:34.832 11156 11156 F DEBUG   : Revision: '0'
+04-10 17:20:34.832 11156 11156 F DEBUG   : ABI: 'arm'
+04-10 17:20:34.832 11156 11156 F DEBUG   : pid: 11151, tid: 11151, name: minicap  >>> /data/local/tmp/minicap <<<
+04-10 17:20:34.832 11156 11156 F DEBUG   : signal 6 (SIGABRT), code -6 (SI_TKILL), fault addr --------
+04-10 17:20:34.832 11156 11156 F DEBUG   : Abort message: 'Vector<> have different types (this=0xbea08524, rhs=0xbea08594)'
+04-10 17:20:34.832 11156 11156 F DEBUG   :     r0  00000000  r1  00002b8f  r2  00000006  r3  00000008
+04-10 17:20:34.832 11156 11156 F DEBUG   :     r4  00002b8f  r5  00002b8f  r6  bea080bc  r7  0000010c
+04-10 17:20:34.832 11156 11156 F DEBUG   :     r8  b424be08  r9  b424be0c  r10 b424bca8  r11 bea08524
+04-10 17:20:34.832 11156 11156 F DEBUG   :     ip  b45733d8  sp  bea080a8  lr  b44e2639  pc  b44d9e5e
+04-10 17:20:34.849 11156 11156 F DEBUG   : 
+04-10 17:20:34.849 11156 11156 F DEBUG   : backtrace:
+04-10 17:20:34.849 11156 11156 F DEBUG   :     #00 pc 0001ce5e  /system/lib/libc.so (abort+58)
+04-10 17:20:34.850 11156 11156 F DEBUG   :     #01 pc 00007e19  /system/lib/liblog.so (__android_log_assert+156)
+04-10 17:20:34.850 11156 11156 F DEBUG   :     #02 pc 0000d8b3  /system/lib/libutils.so (android::VectorImpl::operator=(android::VectorImpl const&)+118)
+04-10 17:20:34.850 11156 11156 F DEBUG   :     #03 pc 000691dd  /system/lib/libgui.so (android::SurfaceComposerClient::Transaction::apply(bool)+520)
+04-10 17:20:34.850 11156 11156 F DEBUG   :     #04 pc 00002c43  /data/local/tmp/minicap.so
+04-10 17:20:34.850 11156 11156 F DEBUG   :     #05 pc 00007bf3  /data/local/tmp/minicap
+04-10 17:20:34.850 11156 11156 F DEBUG   :     #06 pc 0009cacd  /system/lib/libc.so (__libc_init+48)
+04-10 17:20:34.850 11156 11156 F DEBUG   :     #07 pc 00008ce0  /data/local/tmp/minicap
+04-10 17:20:36.661 11166 11166 E libc    : Access denied finding property "ro.vendor.at_library"
+04-10 17:20:38.276  2103  2103 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPackageNamesForIntent: No UICC
+04-10 17:20:38.535  2580  2606 E libc    : Access denied finding property "persist.sys.thermal.config"
+04-10 17:20:38.643  2120  2120 E Launcher: changeViewByFsGestureState,  view=FitSystemWindowView,  alpha=1.0,  scale=1.0
+04-10 17:20:38.643  2120  2120 E Launcher: changeViewByFsGestureState,  view=ShortcutMenuLayer,  alpha=1.0,  scale=1.0
+04-10 17:20:38.881 11200 11200 E libc    : Access denied finding property "ro.vendor.at_library"
+04-10 17:20:38.972  1451  2070 E ANDR-PERF-JNI: Iop tryGetService failed
+04-10 17:20:39.028 11214 11214 E miui.calculato: Not starting debugger since process cannot load the jdwp agent.
+04-10 17:20:39.197 11214 11245 E Logger  : No available log folder
+04-10 17:20:39.203 11214 11244 E MvsClientImpl: bind failed
+04-10 17:20:39.205 11214 11245 E Logger  : No available log folder
+04-10 17:20:39.205 11214 11245 E Logger  : No available log folder
+04-10 17:20:39.209 11214 11214 E DeviceLevel: MiDeviceLevelBridge(): Load Class Exception:java.lang.ClassNotFoundException: Didn't find class "com.miui.performance.DeviceLevelUtils" on path: DexPathList[[zip file "/system/framework/MiuiBooster.jar"],nativeLibraryDirectories=[/system/lib]]
+04-10 17:20:39.321  2580  2606 E libc    : Access denied finding property "persist.sys.thermal.config"
+04-10 17:20:39.464 11214 11214 E RecyclerView: No adapter attached; skipping layout
+04-10 17:20:39.517  1451  2070 E ANDR-PERF-JNI: Iop tryGetService failed
+04-10 17:20:40.162 11273 11273 E libc    : Access denied finding property "ro.vendor.at_library"
+04-10 17:20:40.283  1451  1650 E InputDispatcher: channel 'c400b26 Toast (server)' ~ Channel is unrecoverably broken and will be disposed!
+04-10 17:20:42.320 11214 11214 E DeviceUtils: DeviceLevel(): Load Class Exception:java.lang.ClassNotFoundException: Didn't find class "com.miui.performance.DeviceLevelUtils" on path: DexPathList[[zip file "/system/framework/MiuiBooster.jar"],nativeLibraryDirectories=[/system/lib]]
+04-10 17:20:42.321 11214 11214 E DeviceUtils: getDeviceLevel failed , e:java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object java.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object[])' on a null object reference
+04-10 17:20:42.348 11214 11214 E DeviceUtils: getDeviceLevel failed , e:java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object java.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object[])' on a null object reference
+04-10 17:20:51.564  1389 11187 E adbd    : error reading protocol FD 42: Connection reset by peer
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: Could not send response to the client
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: java.net.SocketException: Broken pipe
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:117)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at java.net.SocketOutputStream.write(SocketOutputStream.java:149)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at fi.iki.elonen.NanoHTTPD$Response$ChunkedOutputStream.write(NanoHTTPD.java:1442)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at fi.iki.elonen.NanoHTTPD$Response$ChunkedOutputStream.write(NanoHTTPD.java:1435)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at fi.iki.elonen.NanoHTTPD$Response.sendBodyWithCorrectEncoding(NanoHTTPD.java:1663)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at fi.iki.elonen.NanoHTTPD$Response.sendBodyWithCorrectTransferAndEncoding(NanoHTTPD.java:1654)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at fi.iki.elonen.NanoHTTPD$Response.send(NanoHTTPD.java:1624)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:957)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)
+04-10 17:20:51.808 11297 11374 E fi.iki.elonen.NanoHTTPD: 	at java.lang.Thread.run(Thread.java:764)
+04-10 17:20:58.919   714   931 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
